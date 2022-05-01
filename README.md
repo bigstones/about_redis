@@ -16,7 +16,7 @@ stream이라는 데이터 구조도 있다
 ## zrange/zadd
 
 
-
+## pub/sub
 
 python redis
 
